@@ -1,7 +1,8 @@
 fileFormatVersion: 2
-guid: 525546c22a0be41748a51a6bf8f0151f
-PackageManifestImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+guid: e49549d1b5341e4e96f95f303befd481
+timeCreated: 0
+licenseType: Pro
+TextScriptImporter:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

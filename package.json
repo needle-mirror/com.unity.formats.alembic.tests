@@ -1,6 +1,10 @@
 {
   "name": "com.unity.formats.alembic.tests",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "type": "tests",
-  "repository": {}
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:unity3d-jp/AlembicForUnity.git",
+    "revision": "84130c914759a93283389255ab1df70afc1edfa3"
+  }
 }
